@@ -55,6 +55,7 @@ designing-login-page/
 └── logo_only.png # Placeholder brand logo
 
 🎯 Final Output
+
 ![image](https://github.com/user-attachments/assets/8f040c40-cbe6-4fae-bee9-c2d307506ea5)
 
 👨‍💻 Developer Notes
